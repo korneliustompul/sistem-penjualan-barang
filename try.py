@@ -147,7 +147,6 @@ def main():
 
         else:
             print("Pilihan salah! Silakan coba lagi.")
-
-
+# ==== PROGRAM UTAMA ====
 if __name__ == "__main__":
     main()
