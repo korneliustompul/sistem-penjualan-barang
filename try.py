@@ -46,7 +46,7 @@ class BarangIterator:
         else:
             raise StopIteration
 
-# ==== ini class barang ====
+# ==== class barang ====
 class BarangIterable:
     def __init__(self, daftar_barang):
         self.daftar = daftar_barang
