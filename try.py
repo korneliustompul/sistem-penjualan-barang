@@ -46,7 +46,7 @@ class BarangIterator:
         else:
             raise StopIteration
 
-
+# ==== ini class barang ====
 class BarangIterable:
     def __init__(self, daftar_barang):
         self.daftar = daftar_barang
@@ -147,6 +147,6 @@ def main():
 
         else:
             print("Pilihan salah! Silakan coba lagi.")
-# ==== PROGRAM UTAMA ====
+# ==== PRINT ====
 if __name__ == "__main__":
     main()
